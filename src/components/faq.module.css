@@ -1,0 +1,12 @@
+.faq{
+    margin: 1rem;
+    background-color: #fbf1f1;
+    border-radius: 0.6rem;
+    box-shadow: 0.1rem 0.1rem #333;
+    padding: 1rem;
+}
+
+.faq div{
+    display: flex;
+    justify-content: space-between;
+}
